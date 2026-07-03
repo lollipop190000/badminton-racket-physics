@@ -1,0 +1,5 @@
+numpy
+matplotlib
+numba
+opencv-python
+taichi
